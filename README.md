@@ -1,18 +1,18 @@
-##/bin
+## /bin
  - General binary files of commandes
-##/boot
+## /boot
  - Files of boot system
-##/dev
+## /dev
  - Files of devices
-##/etc
+## /etc
  - Files of configuration, specific files
-##/home
+## /home
  - Home user's directory
-##/lib
+## /lib
  - Modules of libraries
-##/media
+## /media
  - Files of devices like CD-ROM
-##/mnt
+## /mnt
  - Temporary system mount points
-##/opt
+## /opt
  - Additional application packages 
